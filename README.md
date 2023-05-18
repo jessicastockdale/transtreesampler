@@ -19,13 +19,13 @@ install.packages("remotes")
 Once you have successfully install the `remotes` package, you can run:
 
 ```R
-remotes::install_github("andersgs/transtreesampler")
+remotes::install_github("jessicastockdale/transtreesampler")
 ```
 
 You can optionally specify the `Ncpus` option to speed things up a bit:
 
 ```R
-remotes::install_github("andersgs/transtreesampler", Ncpus=8)
+remotes::install_github("jessicastockdale/transtreesampler", Ncpus=8)
 ```
 
 ## Installing NextFlow
